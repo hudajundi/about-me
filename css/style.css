@@ -1,8 +1,9 @@
 h1 {
     text-align: center;
     color : gray;
-    font-size: x-large;
+    font-size: 200%;
     font-family: cursive;
+    
 }
 
 body {
@@ -11,4 +12,62 @@ body {
 
 h2 {
     font-family: cursive;
+    font-size: 170%;
 }
+
+
+p, ol {
+    width: 500px;
+    font-size: 150%;
+    font-family: monospace;
+    
+    
+}
+
+.firstp {
+  width: 700px; 
+padding: 30px;
+}
+   
+.sec-p{
+    width: 500px;
+    
+}
+
+.third-p {
+    float: right;
+}
+
+.head-exp{
+    text-align-last: right;
+}
+
+
+
+img{
+    width: 300px;
+    float: right;
+
+    
+}
+
+
+.head-ser, .list-ser {
+     border-style: solid;
+     border-color: rgb(68, 70, 69);
+    border-width: 2px;
+} 
+
+.head-ser{
+    width: 700px;
+}
+
+.img-office {
+    width: 500px;
+    float: left;
+
+}
+ .img-b99{
+     width: 300px;
+     float: right;
+ }
